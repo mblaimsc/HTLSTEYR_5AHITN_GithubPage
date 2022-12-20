@@ -1,1 +1,1 @@
-# Das hier ist ein Test
+Das hier ist ein Test
